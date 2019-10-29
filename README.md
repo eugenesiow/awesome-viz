@@ -8,6 +8,8 @@ A curated list of amazing awesome Viz-Stack resources.
  - [Graph](#-graph)
  - [Geospatial](#-geospatial)
  - [Cross Filtering](#-cross-filtering)
+ - [Databases](#databases)
+   - [Graph Databases](#-graph-databases)
  - [Datasets](#datasets)
    - [Graph Datasets](#-graph-datasets)
  - [Papers](#papers)
@@ -48,12 +50,19 @@ A curated list of amazing awesome Viz-Stack resources.
 * [Universe](https://crossfilter.github.io/universe/) - Query and explore multivariate datasets.
 * [MapD Charting](https://github.com/omnisci/mapd-charting) - Dimensional charting built to work natively with crossfilter rendered using d3.js.
 
+## [↑](#contents) Graph Databases
+
+*Graph databases are workload-specific database management systems that prioritise the storage of graph nodes, edges and their properties.*
+
+* [RedisGraph](https://oss.redislabs.com/redisgraph/) - Fast graph processing powered by linear algebra and matrix multiplication. Implemented as a Redis module. 
+
 ## [↑](#contents) Graph Datasets
 
 *Large graph datasets for visualisation and experimentation.*
 
 * [SNAP](http://snap.stanford.edu/data/index.html) - Stanford Large Network Dataset Collection by SNAP (Stanford Network Analysis Project).
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - Open Academic Graph (OAG) is a large knowledge graph unifying two billion-scale academic graphs: Microsoft Academic Graph (MAG) and AMiner.
+* [DBPedia](https://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets) - DBpedia data set uses a large multi-domain ontology which has been derived from Wikipedia as well as localized versions of DBpedia in more than 100 languages.
 
 ## [↑](#contents) Graph Papers
 
