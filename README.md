@@ -7,6 +7,7 @@ A curated list of amazing awesome Viz-Stack resources.
  - [VueJS](#-vuejs)
  - [Graph](#-graph)
  - [Geospatial](#-geospatial)
+ - [Cross Filtering](#-cross-filtering)
  - [Datasets](#datasets)
    - [Graph Datasets](#-graph-datasets)
  - [Papers](#papers)
@@ -36,6 +37,16 @@ A curated list of amazing awesome Viz-Stack resources.
 * [Klokan Technologies](https://www.klokantech.com/products/) - Lots of Open Source mapping products.
 * [Cesium.js](https://cesium.com/cesiumjs/) - CesiumJS is an open source JavaScript library for creating 3D globes and maps.
 * [Vis.gl](https://vis.gl/) - Uber Visualization’s open-source frameworks.
+
+## [↑](#contents) Cross Filtering
+
+*Cross-filtering visualisation libraries for the web.*
+
+* [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js. 
+* [Crossfilter](http://crossfilter.github.io/crossfilter/) - Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser.
+* [Reductio](https://github.com/crossfilter/reductio) - Reductio is a library for generating Crossfilter reduce functions and applying them to Crossfilter groups.
+* [Universe](https://crossfilter.github.io/universe/) - Query and explore multivariate datasets.
+* [MapD Charting](https://github.com/omnisci/mapd-charting) - Dimensional charting built to work natively with crossfilter rendered using d3.js.
 
 ## [↑](#contents) Graph Datasets
 
