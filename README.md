@@ -63,6 +63,7 @@ A curated list of amazing awesome Viz-Stack resources.
 * [SNAP](http://snap.stanford.edu/data/index.html) - Stanford Large Network Dataset Collection by SNAP (Stanford Network Analysis Project).
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - Open Academic Graph (OAG) is a large knowledge graph unifying two billion-scale academic graphs: Microsoft Academic Graph (MAG) and AMiner.
 * [DBPedia](https://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets) - DBpedia data set uses a large multi-domain ontology which has been derived from Wikipedia as well as localized versions of DBpedia in more than 100 languages.
+* [Microsoft Academic Knowledge Graph](http://ma-graph.org/) - Microsoft Academic Knowledge Graph (MAKG), a large RDF data set with over eight billion triples with information about scientific publications and related entities, such as authors, institutions, journals, and fields of study. 
 
 ## [↑](#contents) Graph Papers
 
