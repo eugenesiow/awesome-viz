@@ -8,6 +8,7 @@ A curated list of amazing awesome Viz-Stack resources.
  - [Graph](#-graph)
  - [Geospatial](#-geospatial)
  - [Cross Filtering](#-cross-filtering)
+ - [Trend](#-trend)
  - [Databases](#databases)
    - [Graph Databases](#-graph-databases)
  - [Datasets](#datasets)
@@ -30,6 +31,10 @@ A curated list of amazing awesome Viz-Stack resources.
 * [Cytoscape.js](https://js.cytoscape.org/) - Graph theory (network) library for visualisation and analysis.
 * [Stardust.js](https://stardustjs.github.io/examples/graph/) - Stardust is a library for rendering information visualizations with GPU (WebGL).
 * [vizceral](https://github.com/Netflix/vizceral) - Netflix's WebGL visualization for displaying animated traffic graphs.
+* [Andrei Kashcha](https://github.com/anvaka)
+  * [Software Galaxies](https://github.com/anvaka/pm) - Beautiful interactive viz of software repository galaxies.
+  * [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure for ngraph.*.
+  * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
 ## [↑](#contents) Geospatial
 
@@ -39,6 +44,12 @@ A curated list of amazing awesome Viz-Stack resources.
 * [Klokan Technologies](https://www.klokantech.com/products/) - Lots of Open Source mapping products.
 * [Cesium.js](https://cesium.com/cesiumjs/) - CesiumJS is an open source JavaScript library for creating 3D globes and maps.
 * [Vis.gl](https://vis.gl/) - Uber Visualization’s open-source frameworks.
+
+## [↑](#contents) Trend Visualisation
+
+*Visually explore, understand, and present trend data.*
+
+* [SandDance](https://github.com/Microsoft/SandDance) - SandDance uses unit visualizations, which apply a one-to-one mapping between rows in your database and marks on the screen. Smooth animated transitions between views help you to maintain context as you interact with your data.
 
 ## [↑](#contents) Cross Filtering
 
@@ -58,12 +69,13 @@ A curated list of amazing awesome Viz-Stack resources.
 
 ## [↑](#contents) Graph Datasets
 
-*Large graph datasets for visualisation and experimentation.*
+*Large graph datasets (and tools obtaining large datasets) for visualisation and experimentation.*
 
 * [SNAP](http://snap.stanford.edu/data/index.html) - Stanford Large Network Dataset Collection by SNAP (Stanford Network Analysis Project).
 * [Open Academic Graph](https://www.openacademic.ai/oag/) - Open Academic Graph (OAG) is a large knowledge graph unifying two billion-scale academic graphs: Microsoft Academic Graph (MAG) and AMiner.
 * [DBPedia](https://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets) - DBpedia data set uses a large multi-domain ontology which has been derived from Wikipedia as well as localized versions of DBpedia in more than 100 languages.
 * [Microsoft Academic Knowledge Graph](http://ma-graph.org/) - Microsoft Academic Knowledge Graph (MAKG), a large RDF data set with over eight billion triples with information about scientific publications and related entities, such as authors, institutions, journals, and fields of study. 
+* [Crawler for GitHub](https://github.com/anvaka/allgithub) - Crawling github data for Software Galaxies visualisation
 
 ## [↑](#contents) Graph Papers
 
