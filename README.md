@@ -1,4 +1,4 @@
-# Awesome Viz-Stack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://172.29.129.53/coders.ia/awesome-viz)
+# Awesome Viz-Stack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/eugenesiow/awesome-viz)
 
 A curated list of amazing awesome Viz-Stack resources.
 
@@ -23,6 +23,7 @@ A curated list of amazing awesome Viz-Stack resources.
 * [VueJS](https://vuejs.org/) - The progressive Javascript framework.
 * [Quasar Framework](https://quasar.dev/) - An Open Source set of UI components for VueJS.
 * [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
+* [Vue + WebAssembly](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389) - A medium article which outlines a means of integrating Web Assembly functions into every component of a Vue-cli generated Webpack project.
 
 ## [↑](#contents) Graph
 
@@ -50,6 +51,7 @@ A curated list of amazing awesome Viz-Stack resources.
 *Visually explore, understand, and present trend data.*
 
 * [SandDance](https://github.com/Microsoft/SandDance) - SandDance uses unit visualizations, which apply a one-to-one mapping between rows in your database and marks on the screen. Smooth animated transitions between views help you to maintain context as you interact with your data.
+* [Perspective](https://github.com/Microsoft/SandDance) - Streaming Analytics via WebAssembly, Perspective is an interactive visualization component for large, real-time datasets.
 
 ## [↑](#contents) Cross Filtering
 
