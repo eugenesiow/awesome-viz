@@ -7,6 +7,7 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 ## 📖 Table of Contents
 
  - [VueJS](#-vuejs)
+ - [CSS](#-css)
  - [Graph](#-graph)
  - [Geospatial](#-geospatial)
  - [Cross Filtering](#-cross-filtering)
@@ -26,6 +27,13 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 * [Quasar Framework](https://quasar.dev/) - An Open Source set of UI components for VueJS.
 * [Vuex](https://vuex.vuejs.org/) - Vuex is a state management pattern + library for Vue.js applications.
 * [Vue + WebAssembly](https://medium.com/@brockreece/vue-webassembly-1a09e38d0389) - A medium article which outlines a means of integrating Web Assembly functions into every component of a Vue-cli generated Webpack project.
+
+## [↑](#contents) CSS
+
+*Innovations on the CSS front.*
+
+* [--var hack](https://lea.verou.me/2020/10/the-var-space-hack-to-toggle-multiple-values-with-one-custom-property/) - The -​-var: ; hack to toggle multiple values with one custom property.
+
 
 ## [↑](#contents) Graph
 
