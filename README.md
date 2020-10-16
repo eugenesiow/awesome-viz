@@ -2,6 +2,8 @@
 
 A curated list of amazing awesome Viz-Stack resources.
 
+See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [DSO Viz Toolkit](https://gitly.hopto.org/eugene/dso-viz).
+
 ## 📖 Table of Contents
 
  - [VueJS](#-vuejs)
