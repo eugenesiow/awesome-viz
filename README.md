@@ -18,6 +18,7 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
    - [Graph Datasets](#-graph-datasets)
  - [Papers](#papers)
    - [Graph Papers](#-graph-papers)
+ - [Articles](#-articles)
 
 ## [↑](#contents) VueJS
 
@@ -94,3 +95,8 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 *Academic papers of large scale graph visualisation.*
 
 * [Representation learning on graphs: Methods and applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf) - Hamilton, W. L., Ying, R., & Leskovec, J. (2017). Representation learning on graphs: Methods and applications. IEEE Data Eng. Bull. 2017.
+
+## [↑](#contents) Articles
+*Articles on visualisation, UI/UX and software interfaces.*
+
+* [Interfaces That Help Machine Learning](https://jmohsenin.com/interfaces-for-ml) - Jackson Mohsenin. (Oct 2020). An article about how ML and product design can work together to provide better signals for ML training (TikTok VS Twitter, gamification) and to provide a better interface to display ML inference in a good light (Netflix VS Hulu).
