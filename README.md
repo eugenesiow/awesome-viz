@@ -19,6 +19,10 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
  - [Papers](#papers)
    - [Graph Papers](#-graph-papers)
  - [Articles](#-articles)
+ - More Awesomeness
+    - [Awesome Research](https://gitly.hopto.org/eugene/awesome-research)
+    - [Awesome Sense Making](https://gitly.hopto.org/eugene/awesome-sense-making)
+    - [Awesome Engineering](https://gitly.hopto.org/eugene/awesome-engineering)
 
 ## [↑](#contents) VueJS
 
