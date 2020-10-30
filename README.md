@@ -38,12 +38,14 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 * [encodable](https://github.com/kristw/encodable) - When you have a visualization component, this library helps you defines the visual channels that you can encode data into and provide API similar to vega-lite's grammar for consumers to customize the visual encoding.
 * [P4](https://github.com/jpkli/p4) - P4 is JavaScript library for accelerating data processing and visualization using the GPU. P4 provides an intuitive and declarative API for specifying common data transformations and visualizations, which automatically compile to WebGL shader programs for parallel computing. For data processing, P4 is more than 10X faster than codes based on JavaScript Array functions. For visualizing large data, P4 is at least 10X faster than Canvas, and 20X faster than SVG.
 * [P6](https://github.com/jpkli/p6) - P6 is a research project for developing a declarative language to specify visual analytics processes that integrate machine learning methods with interactive visualization for data analysis and exploration. P6 uses P4 for GPU accelerated data processing and rendering, and leverages Scikit-Learn and other Python libraries for supporting machine learning algorithms.
+* [Kyrix-S](https://github.com/tracyhenry/kyrix) - Kyrix facilitates the creation of data visualizations with details-on-demand interactions (e.g. pan and zoom, see the demo gallery1 above). In visualizations of such, the underlying dataset is often large. To deal with large data, Kyrix is focused on optimizing two goals: 1) usable declarative API library for visualization developers and 2) 500ms response time to user interactions, which is required to enable interactive browsing.
 
 ## [↑](#contents) Data Analytics
 
 *Tools, frameworks, libraries for data analytics and machine learning visualisations.*
 
 * [DruidJS](https://github.com/saehm/DruidJS) - DruidJS is a JavaScript library for dimensionality reduction. With dimesionality reduction you can project high-dimensional data to a lower dimensionality while keeping method-specific properties of the data. DruidJS makes it easy to project a dataset with the implemented dimensionality reduction methods.
+* [PipelineProfiler](https://github.com/VIDA-NYU/PipelineVis) - AutoML Pipeline exploration tool compatible with Jupyter Notebooks. Supports auto-sklearn and D3M pipeline format.
 
 ## [↑](#contents) VueJS
 
