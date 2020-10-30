@@ -6,12 +6,17 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 
 ## 📖 Table of Contents
 
+ - [Declarative](#-declarative)
+ - [Data Analytics](#-data-analytics)
  - [VueJS](#-vuejs)
  - [CSS](#-css)
  - [Graph](#-graph)
  - [Geospatial](#-geospatial)
- - [Cross Filtering](#-cross-filtering)
- - [Trend](#-trend)
+ - [HCI](#-hci)
+ - [Trend](#-trend-visualisation)
+ - [Collaborative](#-collaborative)
+ - [Cross Filtering](#-cross-filtering) 
+ - [Graphics and Animation](#-graphics-animation) 
  - [Databases](#databases)
    - [Graph Databases](#-graph-databases)
  - [Datasets](#datasets)
@@ -19,10 +24,26 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
  - [Papers](#papers)
    - [Graph Papers](#-graph-papers)
  - [Articles](#-articles)
- - More Awesomeness
+ - More *Awesomeness*
     - [Awesome Research](https://gitly.hopto.org/eugene/awesome-research)
     - [Awesome Sense Making](https://gitly.hopto.org/eugene/awesome-sense-making)
     - [Awesome Engineering](https://gitly.hopto.org/eugene/awesome-engineering)
+
+## [↑](#contents) Declarative
+
+*Tools, frameworks, libraries to build declarative visualisations.*
+
+* [NL4DV](https://github.com/nl4dv/nl4dv) - Natural Language toolkit for Data Visualization. It takes a natural language query about a given dataset as input and outputs a structured JSON object containing: (1) Data attributes, (2) Analytic tasks, and (3) Visualizations (Vega-Lite specifications). The [showcase](https://nl4dv.github.io/nl4dv/showcase.html) shows example use cases and applications. [Presented](https://youtu.be/U5uDyILweu8) at IEEE VIS 2020. (Also No Code)
+* [Vega](https://vega.github.io/vega/) - A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format, and generate web-based views using Canvas or SVG.
+* [encodable](https://github.com/kristw/encodable) - When you have a visualization component, this library helps you defines the visual channels that you can encode data into and provide API similar to vega-lite's grammar for consumers to customize the visual encoding.
+* [P4](https://github.com/jpkli/p4) - P4 is JavaScript library for accelerating data processing and visualization using the GPU. P4 provides an intuitive and declarative API for specifying common data transformations and visualizations, which automatically compile to WebGL shader programs for parallel computing. For data processing, P4 is more than 10X faster than codes based on JavaScript Array functions. For visualizing large data, P4 is at least 10X faster than Canvas, and 20X faster than SVG.
+* [P6](https://github.com/jpkli/p6) - P6 is a research project for developing a declarative language to specify visual analytics processes that integrate machine learning methods with interactive visualization for data analysis and exploration. P6 uses P4 for GPU accelerated data processing and rendering, and leverages Scikit-Learn and other Python libraries for supporting machine learning algorithms.
+
+## [↑](#contents) Data Analytics
+
+*Tools, frameworks, libraries for data analytics and machine learning visualisations.*
+
+* [DruidJS](https://github.com/saehm/DruidJS) - DruidJS is a JavaScript library for dimensionality reduction. With dimesionality reduction you can project high-dimensional data to a lower dimensionality while keeping method-specific properties of the data. DruidJS makes it easy to project a dataset with the implemented dimensionality reduction methods.
 
 ## [↑](#contents) VueJS
 
@@ -61,12 +82,26 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 * [Cesium.js](https://cesium.com/cesiumjs/) - CesiumJS is an open source JavaScript library for creating 3D globes and maps.
 * [Vis.gl](https://vis.gl/) - Uber Visualization’s open-source frameworks.
 
+## [↑](#contents) HCI
+
+*Human computer interaction focused visualisation libraries.*
+
+* [Piling.js](https://piling.js.org/) - A JavaScript Library for Interactive Visual Piling of Small Multiples. [Presented](https://www.youtube.com/watch?v=-SlwWtTCWFU) at VIS 2020. Best [Paper](https://vcg.seas.harvard.edu/publications/a-generic-framework-and-library-for-exploration-of-small-multiples-through-interactive-piling) Honourable Mention for IEEE InfoVis.
+
 ## [↑](#contents) Trend Visualisation
 
 *Visually explore, understand, and present trend data.*
 
 * [SandDance](https://github.com/Microsoft/SandDance) - SandDance uses unit visualizations, which apply a one-to-one mapping between rows in your database and marks on the screen. Smooth animated transitions between views help you to maintain context as you interact with your data.
 * [Perspective](https://github.com/Microsoft/SandDance) - Streaming Analytics via WebAssembly, Perspective is an interactive visualization component for large, real-time datasets.
+
+## [↑](#contents) Collaborative
+
+*Frameworks for collaborative editing and visualisation on the web.*
+
+* [VisConnect](https://github.com/michaschwab/VisConnect) - Live collaboration for web based visualizations. Events, such as clicking, are synchronized across collaborators.
+* [Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
+* [ShareDB](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT).
 
 ## [↑](#contents) Cross Filtering
 
@@ -77,6 +112,12 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 * [Reductio](https://github.com/crossfilter/reductio) - Reductio is a library for generating Crossfilter reduce functions and applying them to Crossfilter groups.
 * [Universe](https://crossfilter.github.io/universe/) - Query and explore multivariate datasets.
 * [MapD Charting](https://github.com/omnisci/mapd-charting) - Dimensional charting built to work natively with crossfilter rendered using d3.js.
+
+## [↑](#contents) Graphics / Animation
+
+*Graphics and animation libraries.*
+
+* [Manim](https://github.com/3b1b/manim) - Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically.
 
 ## [↑](#contents) Graph Databases
 
