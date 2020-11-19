@@ -23,6 +23,7 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
    - [Graph Datasets](#-graph-datasets)
  - [Papers](#papers)
    - [Graph Papers](#-graph-papers)
+   - [Text Visualization Papers](#-text-visualization-papers)
  - [Articles](#-articles)
  - More *Awesomeness*
     - [Awesome Research](https://gitly.hopto.org/eugene/awesome-research)
@@ -136,6 +137,12 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 * [DBPedia](https://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets) - DBpedia data set uses a large multi-domain ontology which has been derived from Wikipedia as well as localized versions of DBpedia in more than 100 languages.
 * [Microsoft Academic Knowledge Graph](http://ma-graph.org/) - Microsoft Academic Knowledge Graph (MAKG), a large RDF data set with over eight billion triples with information about scientific publications and related entities, such as authors, institutions, journals, and fields of study. 
 * [Crawler for GitHub](https://github.com/anvaka/allgithub) - Crawling github data for Software Galaxies visualisation
+
+## [↑](#contents) Text Papers
+
+*Academic papers of large scale text visualisation.*
+
+* [Text Visualization Browser: A Visual Survey of Text Visualization Techniques](https://textvis.lnu.se/) - ISOVIS group (2015, Updated 2020). A collection of all the text visualisation papers over the years, organised in a visual browser.
 
 ## [↑](#contents) Graph Papers
 
