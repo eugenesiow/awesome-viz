@@ -48,6 +48,7 @@ See also: [awesome-research](https://gitly.hopto.org/eugene/awesome-research), [
 
 * [DruidJS](https://github.com/saehm/DruidJS) - DruidJS is a JavaScript library for dimensionality reduction. With dimesionality reduction you can project high-dimensional data to a lower dimensionality while keeping method-specific properties of the data. DruidJS makes it easy to project a dataset with the implemented dimensionality reduction methods.
 * [PipelineProfiler](https://github.com/VIDA-NYU/PipelineVis) - AutoML Pipeline exploration tool compatible with Jupyter Notebooks. Supports auto-sklearn and D3M pipeline format.
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and viewer: paste JSON with escaped or nested JSON strings and explore it as a readable tree.
 
 ## [↑](#contents) VueJS
 
